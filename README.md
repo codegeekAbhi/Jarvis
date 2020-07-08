@@ -1,2 +1,2 @@
 # Jarvis
-Mini Jarvis (Artificial Intelligence)
+Mini Jarvis (Voice Assistant)
