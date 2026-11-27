@@ -1,0 +1,3 @@
+-r requirements-google.txt
+pypdf>=5,<7
+twilio>=9,<10
